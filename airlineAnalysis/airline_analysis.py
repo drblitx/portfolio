@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import math
 
 # Read in data
-flight = pd.read_csv("flight.csv")
+flight = pd.read_csv("/flight.csv")
 print(flight.head())
 
 # Univariate Analysis
