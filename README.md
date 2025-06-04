@@ -1,4 +1,4 @@
-#### Portfolio
+## Portfolio
 
 This repository is where I store all of my tinkering projects, coding projects, etc, that I want to be public. 
 
