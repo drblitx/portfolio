@@ -1,1 +1,0 @@
-This project is Codecademy's Airline Analysis project, which can be found at https://www.codecademy.com/projects/practice/eda-and-data-visualization. 
